@@ -1,0 +1,4 @@
+ImmutableCollection.IQueue
+ImmutableCollection.List
+ImmutableCollection.Queue
+ImmutableCollection.IList
